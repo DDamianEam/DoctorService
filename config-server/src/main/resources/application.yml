@@ -7,5 +7,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/landrzejewski/spring-cloud
+          uri: https://github.com/DDamianEam/DoctorService/tree/main
           search-paths: clinic-config-repo
